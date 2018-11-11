@@ -1,0 +1,22 @@
+{
+  "name": "CodeChallenge",
+  "version": "0.1.0",
+  "summary": "A short description of CodeChallenge.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Himanshu Ingole/CodeChallenge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Himanshu Ingole": "srithimanshu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Himanshu Ingole/CodeChallenge.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CodeChallenge/Classes/**/*"
+}

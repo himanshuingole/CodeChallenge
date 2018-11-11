@@ -1,0 +1,16 @@
+PODS:
+  - CodeChallenge (0.1.0)
+
+DEPENDENCIES:
+  - CodeChallenge (from `../`)
+
+EXTERNAL SOURCES:
+  CodeChallenge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CodeChallenge: 4b10a06f2d58b35058cc3bfb436d0e59de302b75
+
+PODFILE CHECKSUM: 4ba4010e3780e8f999952610a8ed40198aab4c6f
+
+COCOAPODS: 1.5.3

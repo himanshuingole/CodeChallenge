@@ -1,0 +1,6 @@
+framework module CodeChallenge {
+  umbrella header "CodeChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}

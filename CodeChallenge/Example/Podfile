@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CodeChallenge_Example' do
+  pod 'CodeChallenge', :path => '../'
+
+  target 'CodeChallenge_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
